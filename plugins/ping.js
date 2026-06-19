@@ -1,6 +1,6 @@
 export default {
     command: 'ping',
-    aliases: ['p', 'pong'],
+    aliases: ['kontplerkj', 'pong'],
     category: 'general',
     description: 'Check bot response time',
     usage: '.ping',
